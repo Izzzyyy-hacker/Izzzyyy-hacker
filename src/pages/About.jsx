@@ -195,15 +195,15 @@ const About = () => {
               height={64}
               className="size-16 rounded-full object-cover object-top bg-pic ring-1 ring-bcolor shrink-0"
             />
-            <p className="text-primary text-sm tracking-wide">
+            {/* <p className="text-primary text-sm tracking-wide">
               Chukwu Patrick Ifeanyi
-            </p>
+            </p> */}
           </div>
           <div className="flex flex-col md:flex-row md:items-end gap-8 md:gap-12">
             <div className="min-w-0 flex-1">
-              <p className="hidden md:block text-primary text-base tracking-wide">
+              {/* <p className="hidden md:block text-primary text-base tracking-wide">
                 Chukwu Patrick Ifeanyi
-              </p>
+              </p> */}
               <h1 className="text-secondary text-[2rem] leading-[1.15] sm:text-5xl md:text-6xl font-bold md:mt-3 text-balance">
                 <span className="block">Software Engineer.</span>
                 <span className="block">Product Builder.</span>
