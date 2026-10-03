@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Patrick)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Faizah)](https://git.io/typing-svg)
 
-Hi, I am Patrick, a software developer at the intersection of tech, social impact and education.
+Hi, I am Faizah, a young software engineer currently 13 years old.
 
 I am driven by a passion for leveraging technology to solve complex challenges, I thrive on delivering exceptional user experiences through web solutions. My expertise spans majorly front-end (#React, #Next.js and #Vue)  and lately back-end (#Node.js), ensuring seamless functionality and optimal performance. 
 
@@ -12,7 +12,7 @@ They say curiosity killed the cat, but either I'm the cat that can't die or I'm 
 
 Let's connect to explore how my experience and skills can add value to your next project or organization.
 Get in touch:
-  - chukwupatrickify@gmail.com
+  - officiallyfaizah@gmail.com
 
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Chukwu)](https://github.com/Patrick-Chukwu/github-readme-stats)
