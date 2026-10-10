@@ -18,7 +18,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-chukwu/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/pattyfean)
 
-## Languages, Libraries and Frameworks:
+## Languages, Libraries and Frameworks of interest:
 <p float="left">
 <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CEk5HONs6LzbULmmHSVvJe5FdeJItvP4fea8rzTy8hlG2T6008Ylj0kSUnImmqjk9qw"/>
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png"/>
@@ -34,6 +34,6 @@
 <!-- and more such images with different URLs in src -->
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Patrick-Chukwu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Izzzyyy-hacker&theme=dark)](https://git.io/streak-stats)
 
 
