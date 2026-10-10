@@ -1,21 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Faizah)](https://git.io/typing-svg)
 
-Hi, I am Faizah, a young software engineer currently 13 years old.
+👋 Hi, I'm a young developer from Nigeria 🇳🇬
 
-I am driven by a passion for leveraging technology to solve complex challenges, I thrive on delivering exceptional user experiences through web solutions. My expertise spans majorly front-end (#React, #Next.js and #Vue)  and lately back-end (#Node.js), ensuring seamless functionality and optimal performance. 
+💻 Exploring software engineering, machine learning & AI  
+🛠️ Building projects that turn ideas into real-world solutions  
+🧠 Curious about how technology works, from code to hardware  
+🚀 Currently learning, experimenting, and building my way up  
+🌍 Passionate about African innovation and technology for good
 
-I collaborate closely with clients to understand their unique requirements while bringing creativity and attention to detail to every project. I'm committed to staying at the forefront of industry trends and technologies by continuously enhancing my skills to deliver results that exceed expectations.
+*Learn. Build. Experiment. Repeat.*
 
-When I'm not busy exploring new technologies, you'll find me contributing to courses that better humanity either through the social impact ventures I am a part of or paying it back through advocacy and actions that foster education.
-
-They say curiosity killed the cat, but either I'm the cat that can't die or I'm here to prove them wrong! I thrive on challenges and love discovering new ways to solve problems.
-
-Let's connect to explore how my experience and skills can add value to your next project or organization.
-Get in touch:
-  - officiallyfaizah@gmail.com
-
-
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Chukwu)](https://github.com/Patrick-Chukwu/github-readme-stats)
+[![Faizah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izzzyyy-hacker)](https://github.com/Izzzyyy-hacker/github-readme-stats)
 
 
 
